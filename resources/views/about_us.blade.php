@@ -38,7 +38,7 @@
                                  and ensuring the cleanliness and safety of sterile facilities and equipments.
                                  It involves the use of various processes and technologies to remove or destroy harmful pathogens,
                                  including bacteria, viruses, and other microorganisms. Larydot Recruitment (Company No. 12289148) as a well-established
-                                 healthcare decontamination company incorporated  October 10, 2019 with years of experience, we are trusted by
+                                 healthcare decontamination company incorporated  October 30, 2019 with years of experience, we are trusted by
                                  numerous professionals in the industry who testify to our excellence in service and training.</p>
                             <div class="mb-4">
                                 <p class="text-secondary"><i class="fa fa-check text-primary me-2"></i> Sterile Service Technician Recruitment.</p>

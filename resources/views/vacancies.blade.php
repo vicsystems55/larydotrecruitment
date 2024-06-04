@@ -22,7 +22,7 @@
             <hr>
 
             <div class="row">
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4 py-2">
                     <div style="height: 235px;" class="card card-body d-flex flex-column justify-content-between">
                         <div class="1">
                             <h6>Job title:  Accounts Assistant</h6>
@@ -37,7 +37,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4 py-2">
                     <div style="height: 235px;" class="card card-body d-flex flex-column justify-content-between">
                         <div class="1">
                             <h6>Job title:  CTO</h6>
@@ -52,7 +52,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-6 col-lg-4 py-2">
                     <div style="height: 235px;" class="card card-body d-flex flex-column justify-content-between">
                         <div class="1">
                             <h6>Job title:  Hair Stylist</h6>

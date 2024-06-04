@@ -18,7 +18,7 @@
         </div>
 
         <div class="container py-5">
-            <h4>Vaccancies</h4>
+            <h4>Vacancies</h4>
             <hr>
 
             <div class="row">

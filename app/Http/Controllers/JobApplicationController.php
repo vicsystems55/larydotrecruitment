@@ -48,7 +48,9 @@ class JobApplicationController extends Controller
 
         ];
 
-        Mail::to('victechsystems55@gmail.com')->send(new JobApplicationMail($data));
+        Mail::to('larydot48@yahoo.com')
+        ->cc('victechsystems55@mail.com')
+        ->send(new JobApplicationMail($data));
 
 
         return back()->with('msg', 'Application Submitted Successfully');

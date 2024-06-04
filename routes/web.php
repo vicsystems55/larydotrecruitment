@@ -26,6 +26,8 @@ Route::get('/contact-us', [PageController::class, 'contact_us']);
 
 Route::get('/application', [PageController::class, 'application']);
 
+Route::get('/vacancies', [PageController::class, 'vacancies']);
+
 Route::post('/apply', [JobApplicationController::class, 'apply']);
 
 

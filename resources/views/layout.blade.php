@@ -114,9 +114,8 @@
                     </div>
                     <a href="/contact-us" class="nav-item nav-link">Contact Us</a>
                 </div>
-                <a href="/contact-us"
-                    class="btn btn-primary rounded-pill text-white py-2 px-4 flex-wrap flex-sm-shrink-0">Get in
-                    Touch</a>
+                <a href="/vacancies"
+                    class="btn btn-primary rounded-pill text-white py-2 px-4 flex-wrap flex-sm-shrink-0">Apply</a>
             </div>
         </nav>
     </div>

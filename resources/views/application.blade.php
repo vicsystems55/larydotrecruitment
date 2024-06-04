@@ -1,18 +1,7 @@
 @extends('layout')
 
 @section('content')
-    <!-- Header Start -->
-    <div class="container-fluid bg-breadcrumb">
-        <div class="container text-center py-5" style="max-width: 900px;">
-            <h3 class="text-white display-3 mb-4 wow fadeInDown" data-wow-delay="0.1s">Application Form</h1>
-                <ol class="breadcrumb justify-content-center mb-0 wow fadeInDown" data-wow-delay="0.3s">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item active text-primary">Application Form</li>
-                </ol>
-        </div>
-    </div>
-    <!-- Header End -->
+
 
 
     <!-- Blog Start -->
@@ -22,13 +11,16 @@
                 <div class="sub-style">
                     {{-- <h4 class="sub-title px-3 mb-0">Get Started Today.</h4> --}}
                 </div>
-                <h1 class="display-3 mb-4">Get Started.</h1>
+                <h1 class="display-3 mb-4">Get Started. </h1>
 
 
             </div>
         </div>
 
+
+
         <div style="max-width: 650px;" class="container bg-white">
+
 
             @if ($errors->any())
                 @foreach ($errors->all() as $error)
@@ -69,8 +61,10 @@
                         <div class="form-floating">
                             <select name="position" id="position" class="form-control bg-white border">
                                 <option value="">Select Position</option>
-                                <option value="Chief Technology Officer">CTO</option>
-                                <option value="Hair Stylist">Hair Stylist</option>
+                                <option value="Chief Technology Officer" {{request()->id == '2'?'selected':''}}>CTO</option>
+                                <option value="Hair Stylist"  {{request()->id == '3'?'selected':''}}>Hair Stylist</option>
+                                <option value="Accounts Assistant"  {{request()->id == '1'?'selected':''}}>Accounts Assistant</option>
+
                             </select>
                             <label for="position">Position</label>
 

@@ -77,5 +77,12 @@ class PageController extends Controller
         return view('application', compact('title'));
     }
 
+    public function vacancies(){
+
+        $title = "Jpb Vacancies";
+
+        return view('vacancies', compact('title'));
+    }
+
 
 }

@@ -78,7 +78,10 @@
                             <div class="d-flex flex-column align-items-center text-center mb-4">
                                 <div class="bg-white d-flex align-items-center justify-content-center mb-3" style="width: 90px; height: 90px; border-radius: 50px;"><i class="fa fa-map-marker-alt fa-2x text-primary"></i></div>
                                 <h4 class="text-dark">Addresses</h4>
-                                <p class="mb-0 text-white">48, Garner Court Dunlop Road, TILBURY ESSEX RM 18 7BG UK</p>
+                                <p class="mb-0 text-white">5 Harbour House
+                                    Coldharbour Lane
+                                    Rainham, Essex
+                                    RM13 9YB UK</p>
                             </div>
                             <div class="d-flex flex-column align-items-center text-center mb-4">
                                 <div class="bg-white d-flex align-items-center justify-content-center mb-3" style="width: 90px; height: 90px; border-radius: 50px;"><i class="fa fa-phone-alt fa-2x text-primary"></i></div>
@@ -105,9 +108,7 @@
                             <a class="btn btn-lg-square btn-light rounded-circle mx-2" href=""><i class="fab fa-linkedin-in"></i></a>
                         </div>
                         <div class="rounded h-100">
-                            <iframe class="rounded w-100"
-                            style="height: 500px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.770656358592!2d0.35110288188851957!3d51.46236710948545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8b63764442c49%3A0x68a6859769706afd!2sGarner%20Court%2C%20Dunlop%20Rd%2C%20Tilbury%20RM18%207BG%2C%20UK!5e0!3m2!1sen!2sng!4v1709053521440!5m2!1sen!2sng"
-                            loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=5%20Harbour%20House%20%20Coldharbour%20Lane%20Rainham,%20Essex%20RM13%209YB+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps vehicle tracker</a></iframe>
                         </div>
                     </div>
                 </div>

@@ -63,7 +63,10 @@
             <div class="col-lg-8 text-center text-lg-start mb-lg-0">
                 <div class="d-flex flex-wrap">
                     <a href="#" class="text-light me-4"><i
-                            class="fas fa-map-marker-alt text-primary me-2"></i>Locate us</a>
+                            class="fas fa-map-marker-alt text-primary me-2"></i>Locate us: 5 Harbour House
+                            Coldharbour Lane
+                            Rainham, Essex
+                            RM13 9YB</a>
                     <a href="#" class="text-light me-4"><i
                             class="fas fa-phone-alt text-primary me-2"></i>+447424598599</a>
                     <a href="mailto:info@larydotrecruitment.com" class="text-light me-0"><i
@@ -174,8 +177,10 @@
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="mb-4 text-white">Contact Info</h4>
-                            <a href=""><i class="fa fa-map-marker-alt me-2"></i> 48, Garner Court Dunlop Road,
-                                TILBURY ESSEX RM 18 7GB UK</a>
+                            <a href=""><i class="fa fa-map-marker-alt me-2"></i> 5 Harbour House
+                                Coldharbour Lane
+                                Rainham, Essex
+                                RM13 9YB UK</a>
                             <a href="mailto:info@larydotrecruitment.com"><i
                                     class="fas fa-envelope me-2"></i>info@larydotrecruitment.com</a>
                             <a href=""><i class="fas fa-phone me-2"></i> +447424598599</a>

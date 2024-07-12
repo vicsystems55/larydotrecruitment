@@ -84,5 +84,12 @@ class PageController extends Controller
         return view('vacancies', compact('title'));
     }
 
+    public function form(){
+
+        $title = "Form";
+
+        return view('forms', compact('title'));
+    }
+
 
 }

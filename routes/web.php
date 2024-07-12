@@ -30,6 +30,9 @@ Route::get('/vacancies', [PageController::class, 'vacancies']);
 
 Route::post('/apply', [JobApplicationController::class, 'apply']);
 
+Route::get('/form', [PageController::class, 'form']);
+
+
 
 
 

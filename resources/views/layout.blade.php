@@ -182,7 +182,7 @@
                                 Rainham, Essex
                                 RM13 9YB UK</a>
                             <a href="mailto:info@larydotrecruitment.com"><i
-                                    class="fas fa-envelope me-2"></i>info@larydotrecruitment.com</a>
+                                    class="fas fa-envelope me-2"></i>info@larydotrecruitment.uk</a>
                             <a href=""><i class="fas fa-phone me-2"></i> +447424598599</a>
                             <a href="" class="mb-3"><i class="fas fa-print me-2"></i> +447424598599 </a>
 

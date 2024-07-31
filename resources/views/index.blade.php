@@ -359,7 +359,7 @@
                         </div>
                         <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
                             <h5>Joseph Subair</h5>
-                            <p class="mb-0">Contract Administrator</p>
+                            <p class="mb-0">Compliance Officer </p>
                         </div>
                     </div>
                 </div>

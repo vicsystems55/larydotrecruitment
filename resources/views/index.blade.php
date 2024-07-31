@@ -344,7 +344,7 @@
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item rounded">
                         <div class="team-img rounded-top h-100">
-                            <img src="{{ asset('/') }}img/team-1.jpg" class="img-fluid rounded-top w-100"
+                            <img src="{{ asset('/') }}img/joe.png" class="img-fluid rounded-top w-100"
                                 alt="">
                             <div class="team-icon d-flex justify-content-center">
                                 <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i
@@ -358,15 +358,15 @@
                             </div>
                         </div>
                         <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
-                            <h5>Full Name</h5>
-                            <p class="mb-0">Message Physio Therapist</p>
+                            <h5>Joseph Subair</h5>
+                            <p class="mb-0">Contract Administrator</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item rounded">
                         <div class="team-img rounded-top h-100">
-                            <img src="{{ asset('/') }}img/team-2.jpg" class="img-fluid rounded-top w-100"
+                            <img src="{{ asset('/') }}img/vic.png" class="img-fluid rounded-top w-100"
                                 alt="">
                             <div class="team-icon d-flex justify-content-center">
                                 <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i
@@ -380,15 +380,15 @@
                             </div>
                         </div>
                         <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
-                            <h5>April Jacob</h5>
-                            <p class="mb-0">Rehabilitation Therapist</p>
+                            <h5>Victor Asuquo</h5>
+                            <p class="mb-0">ICT Manager</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item rounded">
                         <div class="team-img rounded-top h-100">
-                            <img src="{{ asset('/') }}img/team-3.jpg" class="img-fluid rounded-top w-100"
+                            <img src="{{ asset('/') }}img/ty.png" class="img-fluid rounded-top w-100"
                                 alt="">
                             <div class="team-icon d-flex justify-content-center">
                                 <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i
@@ -402,15 +402,15 @@
                             </div>
                         </div>
                         <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
-                            <h5>John Doe</h5>
-                            <p class="mb-0">Managing Director</p>
+                            <h5>Oluwaytoyin Emmanuel</h5>
+                            <p class="mb-0">Digital Marketer</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item rounded">
                         <div class="team-img rounded-top h-100">
-                            <img src="{{ asset('/') }}img/team-4.jpg" class="img-fluid rounded-top w-100"
+                            <img src="{{ asset('/') }}img/ab.png" class="img-fluid rounded-top w-100"
                                 alt="">
                             <div class="team-icon d-flex justify-content-center">
                                 <a class="btn btn-square btn-primary text-white rounded-circle mx-1" href=""><i
@@ -425,7 +425,7 @@
                         </div>
                         <div class="team-content text-center border border-primary border-top-0 rounded-bottom p-4">
                             <h5>Abraham Lecol</h5>
-                            <p class="mb-0">Sterile Technician</p>
+                            <p class="mb-0">Customer Representative</p>
                         </div>
                     </div>
                 </div>

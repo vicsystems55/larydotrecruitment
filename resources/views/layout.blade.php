@@ -13,12 +13,12 @@
     <meta property="og:title" content="Larydot Recruitment - {{$title??'Home'}}">
     <meta property="og:description" content="Larydot Recruitment specializes in sterile technician decontamination, ensuring infection prevention and equipment cleanliness.">
     <meta property="og:image" content="{{asset('/')}}img/og-image.jpg">
-    <meta property="og:url" content="https://larydotrecruitment.com">
+    <meta property="og:url" content="https://larydotrecruitment.uk">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Larydot Recruitment">
 
     <meta name="keywords" content="decontamination, sterile technician, infection prevention, sterile facilities, equipment cleanliness, pathogen removal, hygiene standards, sterilization technologies, microorganism destruction, bacteria elimination, virus control, advanced decontamination processes, sterile environment, infection control.">
-    <link rel="canonical" href="https://larydotrecruitment.com">
+    <link rel="canonical" href="https://larydotrecruitment.uk">
 
     <!-- seo end -->
 
@@ -69,8 +69,8 @@
                             RM13 9YB</a>
                     <a href="#" class="text-light me-4"><i
                             class="fas fa-phone-alt text-primary me-2"></i>+447424598599</a>
-                    <a href="mailto:info@larydotrecruitment.com" class="text-light me-0"><i
-                            class="fas fa-envelope text-primary me-2"></i>info@larydotrecruitment.com</a>
+                    <a href="mailto:info@larydotrecruitment.uk" class="text-light me-0"><i
+                            class="fas fa-envelope text-primary me-2"></i>info@larydotrecruitment.uk</a>
                 </div>
             </div>
             <div class="col-lg-4 text-center text-lg-end">
@@ -181,7 +181,7 @@
                                 Coldharbour Lane
                                 Rainham, Essex
                                 RM13 9YB UK</a>
-                            <a href="mailto:info@larydotrecruitment.com"><i
+                            <a href="mailto:info@larydotrecruitment.uk"><i
                                     class="fas fa-envelope me-2"></i>info@larydotrecruitment.uk</a>
                             <a href=""><i class="fas fa-phone me-2"></i> +447424598599</a>
                             <a href="" class="mb-3"><i class="fas fa-print me-2"></i> +447424598599 </a>

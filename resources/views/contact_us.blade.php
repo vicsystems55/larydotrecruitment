@@ -95,7 +95,7 @@
                                 <h4 class="text-dark">Email</h4>
 
 
-                                <p class="mb-0 text-white">info@larydotrecruitment.com</p>
+                                <p class="mb-0 text-white">info@larydotrecruitment.uk</p>
 
                             </div>
                         </div>

@@ -59,7 +59,8 @@
 
                 <h2>Registration Form</h2>
 
-                <form>
+                <form method="POST" action="{{ route('form.submit') }}">
+                    @csrf
                     <!-- Personal Information Section -->
                     <h3>Personal Information</h3>
                     <label for="forename">Forename</label>

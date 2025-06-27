@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\JobApplicationController;
+use App\Http\Controllers\RegistrationController;
 
 
 
@@ -30,7 +31,9 @@ Route::get('/vacancies', [PageController::class, 'vacancies']);
 
 Route::post('/apply', [JobApplicationController::class, 'apply']);
 
-Route::get('/form', [PageController::class, 'form']);
+Route::get('/form', [RegistrationController::class, 'showForm'])->name('form.show');
+Route::post('/form', [RegistrationController::class, 'submitForm'])->name('form.submit');
+Route::get('/form-success', [RegistrationController::class, 'success'])->name('form.success');
 
 
 

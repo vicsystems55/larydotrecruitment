@@ -74,6 +74,8 @@ class PageController extends Controller
 
         $title = "Application Form";
 
+        return redirect('/form');
+
         return view('application', compact('title'));
     }
 
